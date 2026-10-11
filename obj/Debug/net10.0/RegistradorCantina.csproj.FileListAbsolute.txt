@@ -1,0 +1,15 @@
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\bin\Debug\net10.0\RegistradorCantina.exe
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\bin\Debug\net10.0\RegistradorCantina.deps.json
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\bin\Debug\net10.0\RegistradorCantina.runtimeconfig.json
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\bin\Debug\net10.0\RegistradorCantina.dll
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\bin\Debug\net10.0\RegistradorCantina.pdb
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\RegistradorCantina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\RegistradorCantina.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\RegistradorCantina.AssemblyInfo.cs
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\RegistradorCantina.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\RegistradorCantina.dll
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\refint\RegistradorCantina.dll
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\RegistradorCantina.pdb
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\RegistradorCantina.genruntimeconfig.cache
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\ref\RegistradorCantina.dll
+C:\Users\Rodrigo\Downloads\C# Curso\csharp\RegistradorCantina\RegistradorCantina\obj\Debug\net10.0\Registra.B9BCC39D.Up2Date
